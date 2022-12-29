@@ -1,3 +1,3 @@
 # Bmi App
 
-This app takes input of height and weight of user in meter and kilograms respectively and returns the result of bmi and of the health of user.
+This app takes input of two integer or float/double value for height(in meter) and weight(in kilogram) from user and displays the BMI of user along with the fitness condition of person who has the respective height and weight.
